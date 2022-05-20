@@ -1,3 +1,32 @@
-body{
-  background-color: blue;
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.ashu {
+  /* display: inline-block; */
+  margin-top: 0px;
+
+}
+
+.top-container {
+  height: 500px;
+  width: 100%;
+  background-color: #E4F9F5;
+  margin: 0px;
+  height: 500px;
+  width: 100%;
+  /* text-align: center; */
+}
+
+.middle-container {
+  height: 500px;
+  width: 100%;
+  background-color: #A25B5B;
+}
+
+.bottom-container {
+  height: 500px;
+  width: 100%;
+  background-color: #CC9C75;
 }
