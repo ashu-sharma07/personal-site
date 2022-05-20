@@ -3,11 +3,6 @@ body {
   margin: 0;
 }
 
-.ashu {
-  /* display: inline-block; */
-  margin-top: 0px;
-
-}
 
 .top-container {
   height: 500px;
@@ -16,7 +11,7 @@ body {
   margin: 0px;
   height: 500px;
   width: 100%;
-  /* text-align: center; */
+
 }
 
 .middle-container {
@@ -29,4 +24,8 @@ body {
   height: 500px;
   width: 100%;
   background-color: #CC9C75;
+}
+
+.pro{
+  text-decoration: underline;
 }
